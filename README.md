@@ -70,5 +70,5 @@ cosmos-api/
 <p align="center">
   If you find this API useful, please <strong>give it a star</strong> ⭐ on GitHub!
   <br>
-  Built with ❤️ and 🔭 by <a href="https://github.com/nfurniel">Your Name</a>
+  Built with ❤️ and 🔭 by <a href="https://github.com/nfurniel">Furni</a>
 </p>
