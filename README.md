@@ -50,7 +50,7 @@ Base URL: https://cosmos-api-production.onrender.com
   "complexity": "medium",
   "source": "National Geographic"
 }
-##  Project Structure
+```
 
 ## 📂 Project Structure
 
@@ -63,8 +63,12 @@ cosmos-api/
 │   └── cosmos_facts.json # The database of facts
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
+```
 
 ---
 
-<p align="center"> If you find this API useful, please <strong>give it a star</strong> ⭐ on GitHub!
-Built with ❤️ and 🔭 by <a href="https://github.com/nfurniel">Furni</a> </p>
+<p align="center">
+  If you find this API useful, please <strong>give it a star</strong> ⭐ on GitHub!
+  <br>
+  Built with ❤️ and 🔭 by <a href="https://github.com/nfurniel">Your Name</a>
+</p>
