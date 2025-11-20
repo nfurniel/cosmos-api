@@ -1,0 +1,212 @@
+[
+  {
+    "id": "fact_001",
+    "content": "Neutron stars are so dense that a teaspoon of them would weigh about 6 billion tons.",
+    "category": "stars",
+    "complexity": "medium",
+    "source": "National Geographic"
+  },
+  {
+    "id": "fact_002",
+    "content": "The footprints left by astronauts on the Moon will likely stay there for millions of years due to lack of wind.",
+    "category": "moon",
+    "complexity": "easy",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_003",
+    "content": "One million Earths could fit inside the Sun.",
+    "category": "stars",
+    "complexity": "easy",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_004",
+    "content": "There is a giant cloud of alcohol in Sagittarius B2 which contains enough ethyl alcohol to fill 400 trillion pints of beer.",
+    "category": "nebulae",
+    "complexity": "hard",
+    "source": "Phys.org"
+  },
+  {
+    "id": "fact_005",
+    "content": "Olympus Mons on Mars is the tallest volcano in the solar system, standing three times the height of Mount Everest.",
+    "category": "planets",
+    "complexity": "easy",
+    "source": "ESA"
+  },
+  {
+    "id": "fact_006",
+    "content": "A day on Venus (243 Earth days) is longer than a year on Venus (225 Earth days).",
+    "category": "planets",
+    "complexity": "medium",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_007",
+    "content": "The Milky Way galaxy is on a collision course with the Andromeda galaxy; they will merge in about 4.5 billion years.",
+    "category": "galaxies",
+    "complexity": "medium",
+    "source": "HubbleSite"
+  },
+  {
+    "id": "fact_008",
+    "content": "If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together. This is called cold welding.",
+    "category": "physics",
+    "complexity": "hard",
+    "source": "ESA"
+  },
+  {
+    "id": "fact_009",
+    "content": "The Sun accounts for 99.86% of the mass in the solar system.",
+    "category": "stars",
+    "complexity": "medium",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_010",
+    "content": "There are more stars in the universe than grains of sand on all the beaches on Earth.",
+    "category": "universe",
+    "complexity": "easy",
+    "source": "Universe Today"
+  },
+  {
+    "id": "fact_011",
+    "content": "Jupiter has 95 recognized moons, making it the planet with the most moons in our solar system.",
+    "category": "planets",
+    "complexity": "easy",
+    "source": "Carnegie Science"
+  },
+  {
+    "id": "fact_012",
+    "content": "Black holes are not empty spaces; they are a great amount of matter packed into a very small area.",
+    "category": "black holes",
+    "complexity": "medium",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_013",
+    "content": "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.",
+    "category": "stars",
+    "complexity": "easy",
+    "source": "NOAA"
+  },
+  {
+    "id": "fact_014",
+    "content": "The Great Red Spot on Jupiter is a storm that has been raging for at least 400 years and is larger than Earth.",
+    "category": "planets",
+    "complexity": "easy",
+    "source": "JPL"
+  },
+  {
+    "id": "fact_015",
+    "content": "Voyager 1 is the most distant human-made object from Earth.",
+    "category": "history",
+    "complexity": "medium",
+    "source": "NASA Voyager"
+  },
+  {
+    "id": "fact_016",
+    "content": "Exoplanet 55 Cancri e is believed to be covered in graphite and diamonds.",
+    "category": "exoplanets",
+    "complexity": "hard",
+    "source": "Yale University"
+  },
+  {
+    "id": "fact_017",
+    "content": "The hottest planet in our solar system is Venus, not Mercury, due to its thick atmosphere trapping heat.",
+    "category": "planets",
+    "complexity": "medium",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_018",
+    "content": "Saturn's rings are made primarily of ice particles, with some rocky debris and dust.",
+    "category": "planets",
+    "complexity": "easy",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_019",
+    "content": "A light-year is the distance light travels in one year, which is about 6 trillion miles (9.5 trillion km).",
+    "category": "physics",
+    "complexity": "medium",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_020",
+    "content": "The observable universe is estimated to be about 93 billion light-years in diameter.",
+    "category": "universe",
+    "complexity": "hard",
+    "source": "Space.com"
+  },
+  {
+    "id": "fact_021",
+    "content": "Uranus spins on its side, rolling around the Sun like a ball.",
+    "category": "planets",
+    "complexity": "medium",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_022",
+    "content": "The first person to look at space through a telescope was Galileo Galilei in 1609.",
+    "category": "history",
+    "complexity": "easy",
+    "source": "Rice University"
+  },
+  {
+    "id": "fact_023",
+    "content": "Neutrinos are ghost-like particles that pass through Earth (and you) by the trillions every second without touching anything.",
+    "category": "physics",
+    "complexity": "hard",
+    "source": "IceCube"
+  },
+  {
+    "id": "fact_024",
+    "content": "The sound of the Big Bang was not a bang, but more of a deep hum, though sound cannot travel in the vacuum of space as we know it.",
+    "category": "universe",
+    "complexity": "hard",
+    "source": "University of Washington"
+  },
+  {
+    "id": "fact_025",
+    "content": "There is a hexagonal-shaped storm at Saturn's north pole.",
+    "category": "planets",
+    "complexity": "medium",
+    "source": "Cassini Mission"
+  },
+  {
+    "id": "fact_026",
+    "content": "Humans are made of stardust; the elements in our bodies were forged in the cores of dying stars.",
+    "category": "universe",
+    "complexity": "poetic",
+    "source": "Carl Sagan"
+  },
+  {
+    "id": "fact_027",
+    "content": "Pluto was reclassified from a planet to a dwarf planet in 2006.",
+    "category": "history",
+    "complexity": "easy",
+    "source": "IAU"
+  },
+  {
+    "id": "fact_028",
+    "content": "The International Space Station orbits Earth about every 90 minutes.",
+    "category": "technology",
+    "complexity": "medium",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_029",
+    "content": "Magnetars are neutron stars with magnetic fields a trillion times stronger than Earth's.",
+    "category": "stars",
+    "complexity": "hard",
+    "source": "NASA"
+  },
+  {
+    "id": "fact_030",
+    "content": "Space is completely silent because there is no atmosphere to carry sound waves.",
+    "category": "physics",
+    "complexity": "easy",
+    "source": "NASA"
+  }
+]
