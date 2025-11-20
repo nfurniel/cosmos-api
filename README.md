@@ -52,6 +52,8 @@ Base URL: https://cosmos-api-production.onrender.com
 }
 ##  Project Structure
 
+## 📂 Project Structure
+
 ```bash
 cosmos-api/
 ├── app/
@@ -64,8 +66,5 @@ cosmos-api/
 
 ---
 
-<p align="center">
-  If you find this API useful, please <strong>give it a star</strong> ⭐ on GitHub!
-  <br>
-  Built with ❤️ and 🔭 by <a href="https://github.com/nfurniel">Furni</a>
-</p>
+<p align="center"> If you find this API useful, please <strong>give it a star</strong> ⭐ on GitHub!
+Built with ❤️ and 🔭 by <a href="https://github.com/nfurniel">Furni</a> </p>
